@@ -1,5 +1,5 @@
 # ZoneAlarmEoP
-Exploit for Arbitrary File Move in ZoneAlarm AV < 15.8.211.19229
+Exploit for Arbitrary File Move vulnerability in ZoneAlarm AV < 15.8.211.19229
 
 Checkpoint fixed this vulnerability last month without giving any credits or CVE.
 
